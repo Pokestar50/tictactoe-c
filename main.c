@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 void print_board(char board[3][3]) {
     printf("\n-------------\n");
